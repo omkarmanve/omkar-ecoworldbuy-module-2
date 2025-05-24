@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Eco Bamboo Toothbrush",
+    "price": 129,
+    "category": "Personal Care",
+    "image": "/assets/toothbrush.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Reusable Cotton Bag",
+    "price": 249,
+    "category": "Bags",
+    "image": "/assets/bag.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Organic Cotton T-Shirt",
+    "price": 499,
+    "category": "Clothing",
+    "image": "/assets/download.jpg"
+  }
+]
