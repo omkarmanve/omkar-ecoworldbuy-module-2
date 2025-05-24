@@ -21,7 +21,7 @@ const ProductGrid = () => {
         setLoading(false);
       })
       .catch(err => {
-        setError('❌ Failed to load product data.');
+        setError('Failed to load product data.');
         setLoading(false);
       });
   }, []);
